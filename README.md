@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @BasmalaSallam
-- 👀 I’m interested in physics
-- 🌱 I’m currently learning Quantum machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- 👋 My name is Basmala Sallam. I am a physics undergraduate at Zagazig University, Egypt. 
+- 👀 I’m interested in Astronomy, and Quantum computing.
 
 <!---
 BasmalaSallam/BasmalaSallam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
