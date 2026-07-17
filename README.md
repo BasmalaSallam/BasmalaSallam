@@ -1,6 +1,7 @@
 # Hi there, I'm Basmala! 👋 🌌
 
 I am a **Physics undergraduate** at Zagazig University, Egypt.
+
 ## 🔍 Research Interests
 
 *   **Computational Astrophysics & Machine Learning**
@@ -17,12 +18,6 @@ I am a **Physics undergraduate** at Zagazig University, Egypt.
 *   **Machine Learning:** PyTorch, TensorFlow, Physics-Informed Neural Networks (PINNs), Quantum Machine Learning (QML)
 *   **Astrophysics & Data:** Astropy, Lightkurve, NumPy, Pandas, Matplotlib, EXOTIC pipeline
 *   **Tools & Publishing:** LaTeX, BibTeX, Jupyter Notebooks, Git
-
-
-## 📚 Publications
-
-*   **Labeb, A. H. M., Sallam, B., et al. (2026).** *"Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery."* arXiv preprint [arXiv:2606.21945](https://arxiv.org/abs/2606.21945).
-*   **Marcel, M. C., ..., Sallam, B., et al. (2025).** *"Exploring Statistical Correlations in Exoplanet Transit Parameters: A Study of Over 250 Light Curves..."* [JAAVSO, 53](https://apps.aavso.org/jaavso/article/4014/).
 
 
 ---
