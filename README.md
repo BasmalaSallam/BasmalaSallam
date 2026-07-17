@@ -1,7 +1,6 @@
 # Hi there, I'm Basmala! 👋 🌌
 
-I am a **Physics undergraduate** at Zagazig University, Egypt, with a deep passion for the intersection of **Physics, Machine Learning, and Astrophysics**.
-
+I am a **Physics undergraduate** at Zagazig University, Egypt.
 ## 🔍 Research Interests
 
 *   **Computational Astrophysics & Machine Learning**
